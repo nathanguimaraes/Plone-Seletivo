@@ -1,0 +1,19 @@
+{
+  "portal": [
+    {
+      "email": "nathan.guimaraez@gmail.com",
+      "properties": {
+        "fullname": "PloneUTFPR",
+        "location": "World"
+      },
+      "groups": [
+      ],
+      "roles": [
+        "Member"
+      ],
+      "username": "ploneutfpr"
+    }
+  ],
+    "team": [
+  ]
+}
